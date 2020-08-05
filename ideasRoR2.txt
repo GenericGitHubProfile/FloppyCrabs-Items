@@ -1,0 +1,12 @@
+IDEAS: 
+on Kill: increase movespeed
+on Kill: increase damage
+Ice Skates: more slippery (longer to get to max speed, slide around) more max speed
+Spiked Shoes - increase movespeed, running into enemies damage them
+Increase Proc chance, decrease damage (vice versa?)
+
+IN PROGRESS:
+
+FINISHED:
+Armoured Pistol(change) - on Hit: increase armour
+
